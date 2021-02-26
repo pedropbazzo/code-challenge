@@ -1,3 +1,4 @@
+
 # Bank Statement API [![Build Status](https://travis-ci.org/mariazevedo88/code-challenge.svg?branch=master)](https://travis-ci.org/mariazevedo88/code-challenge)
 
 ## Description
